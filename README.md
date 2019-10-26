@@ -22,3 +22,10 @@ Posteriormente, usaremos el dataset de Missing Migrants Project, en el que se re
 Esta información proviene de diversas fuentes, como fuentes oficiales, medios de comunicación, ONG y encuestas a emigrantes. Cada nueva entrada es verificada con los registros existentes para garantizar que no se cuenten dos veces las muertes. En todas las regiones, los datos del Missing Migrants Project representan una estimación mínima del número de muertes de emigrantes.
 
 El objetivo es predecir estos escenarios para el establecimiento de políticas públicas y cooperación internacional ante esta crisis que parece ir en incremento.
+
+I FASE - Preparación de datos:
+
+Procedemos a la limpieza de Datos:
+a) Con la base de datos de Acnur, se extrae la información de los países de origen y el estatus de la persona. Acnur tiene 5 categorías: Solicitantes de asilo, Desplazados internos, Refugiados retornados, Desplazados internos retornados, Refugiados y Otros de interés. Los datos nulos se representan con un asterico. Ello no significa que no existan, sino que por protección, permanecen en anonimato.
+
+b) La base de datos de  Missing Migrants Project. La preparación es más analítica. Se detecta alguna falta de datos neuralgicos sobre el total de muertes y desapariciones de mujeres y niños. Por ello, en casos de los nulos, utilizamos la mediana para sustituirlos.
