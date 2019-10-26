@@ -15,7 +15,7 @@ En el 2018, la movilización de venezolanos por distintos países, a causa de la
 
 Sin embargo, cuánta relevancia tiene este desplazamiento frente a otros que no han conseguido ni llegar al destino planificado.
 
-En primer lugar, tenemos una base de datos de Acnur, en la que seleccionamos desde el año 2016 al 2018, reflejando los diferentes estatus de refugiado en los países receptores, incluyendo el país de origen. Con esto, visualizaremos los totales por país receptor y origen.
+En primer lugar, tenemos una base de datos de Acnur, en la que seleccionamos desde el año 2016 al 2018, reflejando los diferentes estatus de refugiado en los países receptores, incluyendo el país de origen. Con esto, visualizaremos los totales por país de origen.
 
 Posteriormente, usaremos el dataset de Missing Migrants Project, en el que se registran las muertes y las desapariciones de emigrantes durante la travesía de su país de origen al de residencia. Se incluyen los fallecimientos en accidentes de transporte, naufragios, ataques violentos o debido a complicaciones médicas en el viaje. Excluyen las muertes en centros de detención o tras la deportación.
 
