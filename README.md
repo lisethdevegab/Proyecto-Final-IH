@@ -2,8 +2,11 @@
 ![alt text](https://vid.alarabiya.net/images/2018/09/11/dde1512f-9231-4833-ade7-32a82be2d88c/dde1512f-9231-4833-ade7-32a82be2d88c_16x9_788x442.jpg)
 
 Requerimientos:
+
 Pandas
+
 Numpy
+
 Flourish
 
 Desde inicio de nuestra historia, los desplazamientos de poblaciones han servido para la expansión de la humanidad por cada rincón del mundo. Lo que ha permitido el asentamiento de distintas sociedades, bajo determinandos acuerdos de convivencia y costumbres.
