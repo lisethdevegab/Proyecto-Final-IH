@@ -1,6 +1,11 @@
 
 ![alt text](https://vid.alarabiya.net/images/2018/09/11/dde1512f-9231-4833-ade7-32a82be2d88c/dde1512f-9231-4833-ade7-32a82be2d88c_16x9_788x442.jpg)
 
+Requerimientos:
+Pandas
+Numpy
+Flourish
+
 Desde inicio de nuestra historia, los desplazamientos de poblaciones han servido para la expansión de la humanidad por cada rincón del mundo. Lo que ha permitido el asentamiento de distintas sociedades, bajo determinandos acuerdos de convivencia y costumbres.
 
 Algunos no escapan de ser forzados y masivos; en el siglo XX, seríamos testigos de movilizaciones de grandes grupos, debido a las dos Grandes Guerras. Tras la I Guerra Mundial, al menos siete millones y medio de europeos cambiaron de país por la modificación de las fronteras. Alemania, Polonia y Grecia, fueron los países más afectados. En la  Segunda Guerra Mundial, el fascismo en Europa, obligó a cerca de 14 millones a exiliarse para escapar de una muerte segura.
@@ -28,4 +33,4 @@ I FASE - Preparación de datos:
 Procedemos a la limpieza de Datos:
 a) Con la base de datos de Acnur, se extrae la información de los países de origen y el estatus de la persona. Acnur tiene 5 categorías: Solicitantes de asilo, Desplazados internos, Refugiados retornados, Desplazados internos retornados, Refugiados y Otros de interés. Los datos nulos se representan con un asterico. Ello no significa que no existan, sino que por protección, permanecen en anonimato.
 
-b) La base de datos de  Missing Migrants Project. La preparación es más analítica. Se detecta alguna falta de datos neuralgicos sobre el total de muertes y desapariciones de mujeres y niños. Por ello, en casos de los nulos, utilizamos la mediana para sustituirlos.
+b) La base de datos de  Missing Migrants Project. La preparación es más analítica. Se detecta alguna falta de datos neuralgicos sobre el total de muertes y desapariciones de mujeres y niños. Por ello, en casos de los nulos, utilizamos la mediana para sustituir los datos.
