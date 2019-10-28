@@ -9,6 +9,10 @@ Numpy
 
 Flourish
 
+
+MORIR POR UN FUTURO
+
+
 Desde inicio de nuestra historia, los desplazamientos de poblaciones han servido para la expansión de la humanidad por cada rincón del mundo. Lo que ha permitido el asentamiento de distintas sociedades, bajo determinandos acuerdos de convivencia y costumbres.
 
 Algunos no escapan de ser forzados y masivos; en el siglo XX, seríamos testigos de movilizaciones de grandes grupos, debido a las dos Grandes Guerras. Tras la I Guerra Mundial, al menos siete millones y medio de europeos cambiaron de país por la modificación de las fronteras. Alemania, Polonia y Grecia, fueron los países más afectados. En la  Segunda Guerra Mundial, el fascismo en Europa, obligó a cerca de 14 millones a exiliarse para escapar de una muerte segura.
